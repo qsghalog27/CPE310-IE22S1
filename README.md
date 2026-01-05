@@ -8,43 +8,12 @@ Welcome to 'Diary of My Life,' where I, Sharmaine Halog, a 19-year-old student c
 
 🌸 Are you ready to be inspired?
 
-![Halog_All About Me Poster (1)](https://github.com/user-attachments/assets/4ffbbc39-fefe-4b0a-bed1-c81e5e4ac639)
+![TIMETABLE](https://github.com/user-attachments/assets/8ba72a7c-ade9-4a0d-81a2-db17c5ac71d0)
 
-![Halog_All About Me Poster (2)](https://github.com/user-attachments/assets/41e4a138-3bea-4adf-8f5a-b1a89cc3d593)
+![HOME](https://github.com/user-attachments/assets/db222e5c-565c-4def-be62-07318cd14ae2)
 
+![ABOUT ME](https://github.com/user-attachments/assets/136c04e6-446f-41c3-9120-ce19b6926e0d)
 
-✨ Skills:
+![BLOG](https://github.com/user-attachments/assets/d9867837-a704-46f9-bd81-90e2e3d2d6fe)
 
-Analytical and problem-solving 💡
-
-Time management and organization ⏰
-
-Communication and teamwork 🤝
-
-Adaptability and quick learning 📘
-
-Creativity and innovation 🎨
-
-
-💪 Strengths:
-
-Dedicated and hardworking 🏆
-
-Curious and eager to learn 📚
-
-Positive attitude and resilience 🌟
-
-Goal-oriented and ambitious 🚀
-
-Inspires and motivates others ✨
-
-
-⚡ Weaknesses:
-
-Sometimes overthink decisions 🤔
-
-Can be overly self-critical 😅
-
-Take on too many tasks at once 📋
-
-Need to improve public speaking 🎤
+![CONTACT US](https://github.com/user-attachments/assets/72985c18-bb03-438b-b8c9-65496e1f1aef)
