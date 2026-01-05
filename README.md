@@ -8,9 +8,9 @@ Welcome to 'Diary of My Life,' where I, Sharmaine Halog, a 19-year-old student c
 
 🌸 Are you ready to be inspired?
 
-![TIMETABLE](https://github.com/user-attachments/assets/8ba72a7c-ade9-4a0d-81a2-db17c5ac71d0)
-
 ![HOME](https://github.com/user-attachments/assets/db222e5c-565c-4def-be62-07318cd14ae2)
+
+![TIMETABLE](https://github.com/user-attachments/assets/8ba72a7c-ade9-4a0d-81a2-db17c5ac71d0)
 
 ![ABOUT ME](https://github.com/user-attachments/assets/136c04e6-446f-41c3-9120-ce19b6926e0d)
 
